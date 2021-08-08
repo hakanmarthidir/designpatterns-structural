@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adapter-pattern", "adapter-pattern\adapter-pattern.csproj", "{C5F8AE1D-4080-47F6-8933-3CAA25BF6ED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "adapter-pattern", "adapter-pattern\adapter-pattern.csproj", "{C5F8AE1D-4080-47F6-8933-3CAA25BF6ED6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bridge-pattern", "bridge-pattern\bridge-pattern.csproj", "{85860A34-E192-45F4-B5F2-3CC5ADEAE3C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bridge-pattern", "bridge-pattern\bridge-pattern.csproj", "{85860A34-E192-45F4-B5F2-3CC5ADEAE3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "composite-pattern", "composite-pattern\composite-pattern.csproj", "{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{85860A34-E192-45F4-B5F2-3CC5ADEAE3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85860A34-E192-45F4-B5F2-3CC5ADEAE3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85860A34-E192-45F4-B5F2-3CC5ADEAE3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
