@@ -9,6 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bridge-pattern", "bridge-pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "composite-pattern", "composite-pattern\composite-pattern.csproj", "{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23CF0BE0-D7BF-46F6-8DCF-7621EAE6D1BA}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decorator-pattern", "decorator-pattern\decorator-pattern.csproj", "{2D73B0BA-3E28-49BC-9C37-B6B23B23D8D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA0DD78-0EA1-4017-A065-AB4E8C427FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D73B0BA-3E28-49BC-9C37-B6B23B23D8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D73B0BA-3E28-49BC-9C37-B6B23B23D8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D73B0BA-3E28-49BC-9C37-B6B23B23D8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D73B0BA-3E28-49BC-9C37-B6B23B23D8D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
