@@ -13,3 +13,4 @@ D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\c
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\ref\composite-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.pdb
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.genruntimeconfig.cache
+D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.csproj.AssemblyReference.cache
