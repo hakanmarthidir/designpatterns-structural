@@ -1,4 +1,7 @@
+D:\Codes\my-repos\designpatterns-structural\adapter-pattern\bin\Debug\net5.0\adapter-pattern.exe
 D:\Codes\my-repos\designpatterns-structural\adapter-pattern\bin\Debug\net5.0\adapter-pattern.deps.json
+D:\Codes\my-repos\designpatterns-structural\adapter-pattern\bin\Debug\net5.0\adapter-pattern.runtimeconfig.json
+D:\Codes\my-repos\designpatterns-structural\adapter-pattern\bin\Debug\net5.0\adapter-pattern.runtimeconfig.dev.json
 D:\Codes\my-repos\designpatterns-structural\adapter-pattern\bin\Debug\net5.0\adapter-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\adapter-pattern\bin\Debug\net5.0\ref\adapter-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\adapter-pattern\bin\Debug\net5.0\adapter-pattern.pdb
@@ -10,3 +13,4 @@ D:\Codes\my-repos\designpatterns-structural\adapter-pattern\obj\Debug\net5.0\ada
 D:\Codes\my-repos\designpatterns-structural\adapter-pattern\obj\Debug\net5.0\adapter-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\adapter-pattern\obj\Debug\net5.0\ref\adapter-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\adapter-pattern\obj\Debug\net5.0\adapter-pattern.pdb
+D:\Codes\my-repos\designpatterns-structural\adapter-pattern\obj\Debug\net5.0\adapter-pattern.genruntimeconfig.cache

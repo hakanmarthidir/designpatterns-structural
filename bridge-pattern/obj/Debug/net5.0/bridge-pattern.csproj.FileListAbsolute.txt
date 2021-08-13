@@ -5,6 +5,7 @@ D:\Codes\my-repos\designpatterns-structural\bridge-pattern\bin\Debug\net5.0\brid
 D:\Codes\my-repos\designpatterns-structural\bridge-pattern\bin\Debug\net5.0\bridge-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\bridge-pattern\bin\Debug\net5.0\ref\bridge-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\bridge-pattern\bin\Debug\net5.0\bridge-pattern.pdb
+D:\Codes\my-repos\designpatterns-structural\bridge-pattern\obj\Debug\net5.0\bridge-pattern.csproj.AssemblyReference.cache
 D:\Codes\my-repos\designpatterns-structural\bridge-pattern\obj\Debug\net5.0\bridge-pattern.GeneratedMSBuildEditorConfig.editorconfig
 D:\Codes\my-repos\designpatterns-structural\bridge-pattern\obj\Debug\net5.0\bridge-pattern.AssemblyInfoInputs.cache
 D:\Codes\my-repos\designpatterns-structural\bridge-pattern\obj\Debug\net5.0\bridge-pattern.AssemblyInfo.cs

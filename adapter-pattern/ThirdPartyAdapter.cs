@@ -12,7 +12,7 @@ namespace adapter_pattern
             this._thirdPartyConnectonService = thirdPartyConnectonService;
         }
         public void Connect()
-        {
+        {           
             var machineName = Environment.MachineName;
             this._thirdPartyConnectonService.Bind(machineName);
         }

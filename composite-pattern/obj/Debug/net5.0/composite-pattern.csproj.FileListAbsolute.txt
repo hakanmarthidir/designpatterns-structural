@@ -1,7 +1,3 @@
-D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.GeneratedMSBuildEditorConfig.editorconfig
-D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.AssemblyInfoInputs.cache
-D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.AssemblyInfo.cs
-D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.csproj.CoreCompileInputs.cache
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\bin\Debug\net5.0\composite-pattern.exe
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\bin\Debug\net5.0\composite-pattern.deps.json
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\bin\Debug\net5.0\composite-pattern.runtimeconfig.json
@@ -9,8 +5,11 @@ D:\Codes\my-repos\designpatterns-structural\composite-pattern\bin\Debug\net5.0\c
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\bin\Debug\net5.0\composite-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\bin\Debug\net5.0\ref\composite-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\bin\Debug\net5.0\composite-pattern.pdb
+D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.AssemblyInfoInputs.cache
+D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.AssemblyInfo.cs
+D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.csproj.CoreCompileInputs.cache
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\ref\composite-pattern.dll
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.pdb
 D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.genruntimeconfig.cache
-D:\Codes\my-repos\designpatterns-structural\composite-pattern\obj\Debug\net5.0\composite-pattern.csproj.AssemblyReference.cache
